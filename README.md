@@ -13,7 +13,11 @@ Topluluk Tespiti: DFS (Depth-First Search) algoritması kullanılarak ağ üzeri
 
 Etki Alanı (Influence) Hesaplama: Bir kullanıcının sosyal ağda kaç kişiye erişebildiği özyinelemeli (recursive) algoritmalarla hesaplanır.
 
-Kullanılan Teknolojiler & AlgoritmalarDil: CVeri Yapıları: Red-Black Tree (Self-balancing), Graph, Linked List, Structs.
+Kullanılan Teknolojiler & Algoritmalar
+
+Dil: C
+
+Veri Yapıları: Red-Black Tree (Self-balancing), Graph, Linked List, Structs.
 
 Önemli Fonksiyonlar:
 fixInsert: Ağaca yeni veri eklendiğinde renk dengesini korur.
